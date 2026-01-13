@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello and welcome!"
+title: "Zhaohui Liang's Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 **About Me**  
-My name is Zhaohui Liang, and I’m a Ph.D. candidate at the University of Wisconsin–Madison. I work in the [Connected & Automated Transportation Systems Laboratory (CATS Lab)](https://catslab.engr.wisc.edu/) under the guidance of [Prof. Xiaopeng (Shaw) Li](https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/). My research focuses on intelligent transportation systems, including eco-driving control algorithms for sustainable mobility, the resilience of vehicle controllers under real-world disturbances, and the use of Connected and Automated Vehicles (CAVs) as mobile sensing platforms for traffic state estimation and infrastructure evaluation. I'm also interested in integrating smart infrastructure with CAVs for cooperative mobility and traffic signal optimization, as well as applying telematics and big data analytics to improve transportation efficiency. I earned my bachelor's degree from Harbin Institute of Technology, Weihai, in 2019.
+My name is Zhaohui Liang, and I am currently a Postdoctoral Research Associate in the [TOPS lab](https://topslab.wisc.edu/) at the University of Wisconsin–Madison. I obatained my PhD in the [Connected & Automated Transportation Systems Laboratory (CATS Lab)](https://catslab.engr.wisc.edu/) under the guidance of [Prof. Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). My research focuses on intelligent transportation systems, including eco-driving control algorithms for sustainable mobility, the resilience of vehicle controllers under real-world disturbances, and the use of Connected and Automated Vehicles (CAVs) as mobile sensing platforms for traffic state estimation and infrastructure evaluation. I'm also interested in integrating smart infrastructure with CAVs for cooperative mobility and traffic signal optimization, as well as applying telematics and big data analytics to improve transportation efficiency. I earned my bachelor's degree from Harbin Institute of Technology, Weihai, in 2019.
 
 I also go by *Vito*, a name inspired by my favorite character, Vito Corleone, from *The Godfather*—a film that has left a deep impression on me. While I don’t favor the violence depicted in the story, I greatly admire Vito’s wisdom, loyalty, and sense of responsibility. He symbolizes a model of leadership grounded in integrity and care for others. These values guide how I approach both life and research: success means more than achievement—it means staying true to your principles, supporting your community, and acting with purpose.
 
