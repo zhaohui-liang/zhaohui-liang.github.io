@@ -3,15 +3,68 @@ layout: archive
 title: "Teaching, Mentoring, and Leadership"
 permalink: /teaching/
 author_profile: true
+hide_title: true
 ---
+
+<style>
+  .mentor-credential {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .mentor-credential__copy {
+    flex: 1 1 auto;
+  }
+
+  .mentor-credential__badge {
+    display: block;
+    width: 150px;
+    max-width: 30vw;
+    height: auto;
+  }
+
+  .mentor-credential__link {
+    flex: 0 0 auto;
+    text-align: center;
+    font-size: 0.8em;
+  }
+
+  .mentor-credential__link span {
+    display: block;
+    margin-top: 0.4rem;
+  }
+
+  @media (max-width: 600px) {
+    .mentor-credential {
+      align-items: flex-start;
+      gap: 1rem;
+    }
+
+    .mentor-credential__badge {
+      width: 110px;
+      max-width: 32vw;
+    }
+  }
+</style>
 
 ## Teaching and mentoring
 
+<div class="mentor-credential">
+  <div class="mentor-credential__copy" markdown="1">
 ### Research Mentor Training
 
 **UW-Madison Graduate School, Delta Program · Nov. 2026**
 
 Completed the Delta Research Mentor Training Program and earned its digital credential.
+  </div>
+  <a class="mentor-credential__link" href="https://api.badgr.io/public/assertions/OR0-Epb3RDWWkVbsi569CA" target="_blank" rel="noopener">
+    <img class="mentor-credential__badge" src="{{ '/images/research-mentor-badge.png' | relative_url }}" alt="University of Wisconsin-Madison Research Mentor digital badge" loading="lazy">
+    <span>View verified credential</span>
+  </a>
+</div>
 
 ### Teaching Support - CEE 570
 
