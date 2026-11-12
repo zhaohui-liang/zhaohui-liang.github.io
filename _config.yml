@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Zhaohui Liang's Homepage"
 title_separator          : "-"
 name                     : &name "Zhaohui Liang"
-description              : &description "Earn PhD in UW-Madison, majoring in transportation"
+description              : &description "Postdoctoral researcher in intelligent transportation systems, connected and automated vehicles, eco-driving, and transportation safety"
 url                      : https://zhaohui-liang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhaohui-liang/zhaohui-liang.github.io"
@@ -23,12 +23,12 @@ repository               : "zhaohui-liang/zhaohui-liang.github.io"
 author:
   # Biographic information
   avatar           : "Official_self.jpg"
-  name             : "Zhaohui(Vito) Liang"
+  name             : 'Zhaohui "Vito" Liang, Ph.D.'
   pronouns         :  #example: "He/his"  
-  bio              : "PhD in UW-Madison, majoring in transportation"
+  bio              : "Postdoctoral Research Associate in intelligent transportation systems and connected and automated vehicles"
   location         : "Madison, Wisconsin"
-  employer         : "University of Wisconsin Madison"
-  uri              : # URL
+  employer         : "UW-Madison TOPS Laboratory"
+  uri              : "https://zhaohui-liang.github.io"
   email            : "zhaohuivito@gmail.com" 
 
   # Academic websites
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/zhaohui-liang"
+  github           : "zhaohui-liang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/zhaohui-liang-210721192"
+  linkedin         : "zhaohui-liang-210721192"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -143,9 +143,13 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Zhaohui Liang"
+  links:
+    - "https://scholar.google.com/citations?user=fKIqL3IAAAAJ&hl=en"
+    - "https://orcid.org/0000-0002-3357-9309"
+    - "https://github.com/zhaohui-liang"
+    - "https://www.linkedin.com/in/zhaohui-liang-210721192"
 
 
 # Analytics

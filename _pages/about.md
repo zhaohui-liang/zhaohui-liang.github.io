@@ -2,20 +2,40 @@
 permalink: /
 title: "Zhaohui Liang's Website"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-**About Me**  
-My name is Zhaohui Liang, and I am currently a Postdoctoral Research Associate in the [TOPS lab](https://topslab.wisc.edu/) at the University of Wisconsin–Madison. I obatained my PhD in the [Connected & Automated Transportation Systems Laboratory (CATS Lab)](https://catslab.engr.wisc.edu/) under the guidance of [Prof. Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). My research focuses on intelligent transportation systems, including eco-driving control algorithms for sustainable mobility, the resilience of vehicle controllers under real-world disturbances, and the use of Connected and Automated Vehicles (CAVs) as mobile sensing platforms for traffic state estimation and infrastructure evaluation. I'm also interested in integrating smart infrastructure with CAVs for cooperative mobility and traffic signal optimization, as well as applying telematics and big data analytics to improve transportation efficiency. I earned my bachelor's degree from Harbin Institute of Technology, Weihai, in 2019.
 
-I also go by *Vito*, a name inspired by my favorite character, Vito Corleone, from *The Godfather*—a film that has left a deep impression on me. While I don’t favor the violence depicted in the story, I greatly admire Vito’s wisdom, loyalty, and sense of responsibility. He symbolizes a model of leadership grounded in integrity and care for others. These values guide how I approach both life and research: success means more than achievement—it means staying true to your principles, supporting your community, and acting with purpose.
+## About me
 
-Outside of research, I'm a passionate enthusiast of racing vehicles (ironically, I study how to remove humans from the driving loop, but I absolutely love driving myself!). I'm also an active entrepreneur and the co-founder of **DBB AUTO**, a dealership specializing in performance and racing-focused vehicles.
+I am Zhaohui "Vito" Liang, a Postdoctoral Research Associate in the [Traffic Operations and Safety (TOPS) Laboratory](https://topslab.wisc.edu/) at the University of Wisconsin-Madison. I earned my Ph.D. in Civil and Environmental Engineering from UW-Madison in August 2025, advised by [Prof. Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/) in the [Connected & Automated Transportation Systems Laboratory (CATS Lab)](https://catslab.engr.wisc.edu/).
 
+My research develops and evaluates intelligent transportation technologies that work outside idealized laboratory conditions. I combine vehicle control, sensing, connectivity, field experimentation, and data analytics to improve the energy efficiency, resilience, and safety of connected and automated transportation systems.
 
----
+[Download my CV](/files/Zhaohui_Liang_CV.pdf){: .btn .btn--primary }
+[View publications](/publications/){: .btn .btn--inverse }
 
-**Note:** This page is still under development. Feel free to reach out if you have any questions or would like to connect!
+## Research interests
 
+- Eco-driving control algorithms for energy-efficient and sustainable transportation
+- Resilience evaluation of vehicle controllers under real-world disturbances
+- Connected and automated vehicles as mobile sensing platforms for traffic-state estimation and infrastructure evaluation
+- Smart infrastructure and cooperative mobility, including traffic signal optimization
+- Telematics and big-data analytics for intelligent transportation systems
+- Transportation safety
 
+## Current and recent work
+
+- Developing robust eco-driving methods and adversarial evaluation frameworks for realistic disturbances
+- Using automated vehicles to estimate tire-road friction and support scalable roadway-condition screening
+- Building vehicle-based sensing pipelines for visibility and severe-weather warning applications
+- Integrating V2X communication, cooperative perception, and smart infrastructure for connected and automated mobility
+
+More details are available on my [research](/research/) and [publications](/publications/) pages.
+
+## Beyond research
+
+I also go by *Vito*, a name inspired by Vito Corleone from *The Godfather*. I admire the character's wisdom, loyalty, and sense of responsibility, and I try to bring those values to research, mentorship, and collaboration. Outside the lab, I enjoy robotics, racing, basketball, badminton, and swimming. I am also a co-founder of **DBB AUTO**, a dealership focused on performance and racing-oriented vehicles.
+
+I welcome conversations about research collaboration, field testing, and intelligent transportation systems. The best way to reach me is at [zhaohuivito@gmail.com](mailto:zhaohuivito@gmail.com).
