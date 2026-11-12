@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "Zhaohui Liang's Website"
+title: "Zhaohui Liang"
+seo_title: "Zhaohui Liang | Intelligent Transportation Researcher"
+description: "Postdoctoral researcher at UW-Madison working on connected and automated vehicles, eco-driving, vehicle-based sensing, and transportation safety."
 author_profile: true
 hide_title: true
 redirect_from:
